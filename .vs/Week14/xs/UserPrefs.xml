@@ -1,0 +1,34 @@
+﻿<Properties NuGet.AddPackagesDialog.IncludePrerelease="True" StartupConfiguration="{923B728B-E4DB-4854-B548-426B7B0E919E}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Week14/Controllers/FirstController.cs">
+    <Files>
+      <File FileName="Week14/Startup.cs" />
+      <File FileName="Week14/Controllers/FirstController.cs" Line="150" Column="337" />
+      <File FileName="Week14/Model/Person.cs" />
+      <File FileName="Week14/FluentValidation/AddressValidator.cs" Line="20" Column="64" />
+      <File FileName="Week14/Model/Address.cs" />
+      <File FileName="Week14/Program.cs" />
+      <File FileName="Week14/FluentValidation/PersonValidator.cs" Line="20" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Week14" expanded="True" selected="True">
+            <Node name="Week14" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="FluentValidation" expanded="True" />
+              <Node name="Model" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Week14 PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
